@@ -162,21 +162,9 @@ mvn test
 - [ ] Rate limiting
 - [ ] Circuit breaker implementation
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## 👥 Authors
 
-- Your Name - *Initial work* - [YourGithub](https://github.com/yourusername)
+- Your Name - *Initial work* - [aakash-malhotra](https://github.com/aakash-malhotra)
 
 ## 🙏 Acknowledgments
 
@@ -190,4 +178,4 @@ Project is: _in development_
 
 ## 📞 Contact
 
-Created by [@yourusername](https://github.com/yourusername) - feel free to contact me!
+Created by [@aakash-malhotra](https://github.com/aakash-malhotra) - feel free to contact me!
